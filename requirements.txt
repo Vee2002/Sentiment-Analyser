@@ -1,0 +1,6 @@
+transformers==4.55.0
+torch==2.8.0
+pandas
+matplotlib
+seaborn
+wordcloud
